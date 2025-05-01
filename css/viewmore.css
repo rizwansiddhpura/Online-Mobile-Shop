@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/*------------------Buy-cart----------------------*/
+.container-fluid
+{
+    width:100%;
+    height:auto;
+    margin-top:50px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.buy-cart-in
+{
+    width:100%;
+}
+.buy-cart
+{
+    width:50%;
+    float:left;
+    height:auto;
+}
+.short-image
+{
+    width:15%;
+    height:auto;
+    float:left;
+}
+.big-image
+{
+    border-style:solid;
+    width:auto;
+    margin-bottom:13px;
+    border-radius:5px;
+    border-width:1px;
+    border-color:gray;
+    padding:5px 5px 5px 5px;
+}
+.big-perticuler-img
+{
+    width:auto;
+    height:70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.big-image-box
+{
+    border-style:solid;
+    float:left;
+    width:81%;
+    height:150xp;
+    margin-left:2%;
+    margin-right:2%;
+    border-width:1px;
+    border-color:gray;
+}
+.big-image-box-in
+{
+    width:auto;
+    height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px 5px 10px 5px;
+}
+.description-main
+{
+    width:46%;
+    float:left;
+    height:auto;
+    margin-left:2%;
+    margin-right:2%;
+}
+.description-main h3
+{
+    width:100%;
+    height:auto;
+    font-size:25px;
+    font-weight:normal;
+}
+.price-description
+{
+    height:45px;
+    position:relative;
+    display:flex;
+}
+.rupise
+{
+    font-size:30px;
+    line-height:45px;
+}
+.price
+{
+    font-size:30px;
+    font-weight:bold;
+    line-height:45px;
+    margin-left:2px;
+}
+.cancle-price
+{
+    font-size:18px;
+    line-height:45px;
+    margin-left:15px;
+}
+.off-price
+{
+    margin-left:15px;
+    color:green;
+    line-height:45px;
+    font-weight:bold;
+}
+.mobile-detail
+{
+    margin-top:10px;
+}
+.button-buy-main
+{
+    margin-top:40px;
+}
+.button-buy-main button
+{
+    width:50%;
+    height:50px;
+    background-color:orange;
+    border-style:solid;
+    border-color:orange;
+    border-radius:5px;
+    color:white;
+    font-weight: bold;
+    font-size:20px;
+    text-align:Center;
+}

@@ -1,0 +1,133 @@
+
+.your_account{
+    margin-top: 20px;
+    width: 98%;
+    margin-left: 14px;
+    height: 500px;
+    background-color: white;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+ h2,h4{
+     font-family: bahnschrift;
+     font-weight: bold;
+     font-size: 20px;
+     margin-left: 30px;
+    }
+.profile{
+    margin-top: 20px;
+    width: 25rem;
+    margin-left: 14px;
+    height: 90px;
+    border:1px lightgray solid;
+    padding: 10px 50px 10px 35px;
+}
+.photo{
+    float: left;
+}
+.profile img{
+    width: 3rem;
+    height: 3rem;
+    border:3px grey solid;
+    border-radius: 100px;
+}
+.user_name{
+    margin-left: 30px;
+    font-size: 25px;
+}
+.mail{
+    display: flex;
+    color: grey;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.option{
+    padding-right: 38px;
+    margin-top: 10px;
+    margin-left: 14px;
+    width: 25rem;
+    height: 325px;
+    border: 1px lightgray solid;
+}
+.option ul{
+    margin-left: -10px;
+    list-style-type: none;
+}
+.option li{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1px lightgray solid;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+
+.option li:hover{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: whitesmoke;
+    border-bottom: 1px grey solid;
+
+    font-size: 15px;
+}
+.option li img{
+    width: 15px;
+    margin-right: 10px;
+}
+.right-arrow{
+    justify-content: right;
+    margin-left: 20px;
+}
+.Account_Information{
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 50%;
+    height: 320px;
+    background-color: white;
+    border:1px lightgrey solid;
+}
+.address{
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 50%;
+    height: 320px;
+    background-color: white;
+    border:1px lightgrey solid;
+    display: none;
+}
+
+.labelname{
+    color: rgb(21,161,153);
+    font-weight: bold;
+    width: 40%;
+}
+.detail{
+    font-size: 20px;
+    width: 40%;
+}
+.Account_Information li{
+    padding-bottom: 10px;
+    border-bottom: 1px lightgrey solid;
+    margin-bottom: 20px;
+}
+.Account_Information ul{
+    width: 34%;
+}
+.part1{
+    display: flex;
+}
+.button{
+    margin-left: 70%;
+    color: white;
+    width: 20%;
+    border:1px rgb(21,161,153)solid;
+    padding:10px 15px 10px 15px;
+    background-color: rgb(21,161,153);
+    border-radius: 5px;
+}
+.button img{
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}

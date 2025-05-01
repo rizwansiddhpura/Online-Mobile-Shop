@@ -1,0 +1,248 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/*--------------- Brand-Logo ---------------*/
+.brandmain {
+    height: 70px;
+    width: 100%;
+}
+
+.bardicon {
+    width: 16.66%;
+    height: 70px;
+    float: left;
+}
+
+.vivo {
+    width: 60%;
+    height: 60px;
+    padding: 5px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.oppo {
+    width: 60%;
+    height: 60px;
+    padding: 15px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.oneplus {
+    width: 70%;
+    height: 60px;
+    padding: 5px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.apple {
+    width: 30%;
+    height: 60px;
+    padding: 5px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Realme {
+    width: 70%;
+    height: 60px;
+    padding: 5px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.samsung {
+    width: 70%;
+    height: 60px;
+    padding: 17px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mobile:hover
+{
+    transform: scale(1.1);
+}
+
+/*.barandname
+{
+    text-align:center;
+    text-decoration:none;
+    color:black;
+}
+.vivotext
+{
+    line-height:70px;
+    font-size:25px;
+    font-weight:bold;
+    color:#008cd6;
+    font-family:Arial Rounded MT;
+}
+.oppotext
+{
+    line-height:70px;
+    font-size:25px;
+    font-weight:bold;
+    color:green;
+    font-family:Arial Rounded MT;
+}
+.oneplustext
+{
+    line-height:70px;
+    font-size:25px;
+    font-weight:bold;
+    color:red;
+    font-family:Arial Rounded MT; 
+}
+.appletext
+{
+    line-height:70px;
+    font-size:25px;
+    font-weight:bold;
+    color:rgb(70, 68, 68);
+    font-family:Arial Rounded MT;   
+}
+.realmetext
+{
+    line-height:70px;
+    font-size:25px;
+    font-weight:bold;
+    color:#8c8c06;
+    font-family:Arial Rounded MT; 
+}
+.samsungtext
+{
+    line-height:70px;
+    font-size:25px;
+    font-weight:bold;
+    color:blue;
+    font-family:Arial Rounded MT; 
+}*/
+.line2 {
+    border-width: 2px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+
+}
+.banner {
+    width: 100%;
+    height: 410px;
+}
+
+/*--------------- top Selling product text ---------------*/
+.sellingtext {
+    margin-top: 80px;
+    margin-bottom:50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+}
+
+/*--------------- Top Selling Product ---------------*/
+.newmobiletext
+{
+    font-weight: bold;
+    margin-top:30px;
+    margin-bottom:40px;
+    padding-left:50px;
+    width:100%;
+}
+
+.container
+{
+    height:auto;
+    display:flex;
+    flex-wrap: wrap;
+    width:100%;
+}
+.mobile-cart-main
+{
+    width:19.22%;
+    height:100px;
+    margin-left:5px;
+    margin-right:5px;
+    height:auto;
+    border-style:solid;
+    border-radius: 3px;
+    border-width: 2px;
+    border-color:#f7f7f7;
+}
+.vivo-image
+{
+    height:255px;
+    background-color:#f7f7f7;
+}
+.viov-mobileimage
+{
+    width:100%;
+    height:250px;
+    padding:10px 20px 10px 20px;
+}
+.viov-mobileimage:hover
+{
+    transform: scale(1.1);
+}
+.mobile-description-main
+{
+    width:100%;
+}
+.mobile-description
+{
+    margin-top:10px;
+    margin-bottom:5px;
+    font-size:17px;
+    line-height:22px;
+}
+.mobile-description-link
+{
+    text-decoration:none;
+    color:black;
+}
+.mobile-description:hover
+{
+    color:#1d2c4d;
+}
+.mobile-prince
+{
+    font-size: 32px;
+    font-weight: bold;
+}
+.rupies-main
+{
+    width: 100%;
+    height: auto;
+}
+.rupies
+{
+    font-weight:bold;
+    font-weight:normal;
+    font-size: 17px;
+}
+.discount-prince
+{
+    margin-left: 10px;
+}
+.add-button
+{
+    border-style: solid;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left:10px;
+    margin-bottom: 12px;
+    border-radius: 15px;
+    color:white;
+    background-color:#1d2c4d;
+    border-color:#1d2c4d;
+}
+
